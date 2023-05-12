@@ -12,8 +12,7 @@
 | Sandwich                | $2  | $2   |          |          |          |          |
 | Beer                    | $7  | $7   |          |          |          |          |
 | Whishkey                | $10 | $10  |          |          |          |          |
-| Whishkey                | $10 | $10  |          |          |          |          |
-| Joint                   | $15 | $15  |          |          | -100%    |          |
+| Joint                   | $15 | $15  |          |          |          | -100%    |
 
 ## Cluckin' Bell Rates
 
@@ -26,9 +25,9 @@
 ### Transport
 
 -   Farm --> Factory
--   Factory --> Pillow Factory
--   Factory --> Ron Gasoiline
--   Factory --> Distribution Center
+-   CB Factory --> Pillow Factory
+-   CB Factory --> Ron Gasoiline
+-   CB Factory --> Distribution Center
 -   Distribution Center --> Restaurant
 -   Restaurant (--> Delivery Guy) --> Customer
 
